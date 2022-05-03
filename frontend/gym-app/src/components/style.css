@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Slackey&display=swap');
+
+ * {
+  font-family: 'Bebas Neue', cursive;
+  margin: 0;
+}
+
+
+.profile-pic img{
+    margin-top: 2rem;
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    border-color: blue;
+    border: solid;
+}
+
+.user-list{
+  background-color: aqua;
+}
+
+.user-orderlist{
+  background-color: yellowgreen;
+  list-style-type: none;
+  padding-left: 0;
+}
